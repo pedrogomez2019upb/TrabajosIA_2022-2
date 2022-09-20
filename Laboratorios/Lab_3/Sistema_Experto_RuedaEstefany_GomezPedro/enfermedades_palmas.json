@@ -1,0 +1,83 @@
+{
+  "__v": 1,
+  "description": "Base de conocimiento para la detección de enfermedades en plantas",
+  "entries": [
+    {
+      "name": "Pudrición de Cogollo",
+      "description": "Se caracteriza por la destruccion de los nuevos tejidos en las plantas infectadas, es producida por Phytophthora palmivora. Presenta lesiones iniciales en los tejidos inmaduros de las flechas en desarrollo en el corazón de la palma, se hace visible tres o cuatro días más tarde como pequeñas lesiones necróticas sobre los costados de la flecha más joven en la medida en que esta crece, despue sson colonizados por hongos y bacterias los cuales continúan el proceso de pudrición y eventualmente destruyen todos los nuevos tejidos, conduciendo finalmente a la Pudrición del cogollo.",
+      "props": [
+        "Es palma adulta",
+        "Amarillamiento en las hojas jóvenes",
+        "Colapso de hojas jóvenes",
+        "Lesiones necróticas",
+        "Lesiones en el cogollo",
+        "Mordisco en hojas jóvenes"
+      ]
+    },
+    {
+      "name": "Marchitez sorpresiva",
+      "description": "La Marchitez sorpresiva (MS) es una enfermedad letal, afecta principalmente las palmas jóvenes desde el inicio de su etapa productiva. Ha sido asociada a un protozoario flagelado (Phytomonas sp.) que se localiza en el floema de la palma.",
+      "props": [
+        "Es palma Joven",
+        "Presenta protozoarios flagelados",
+        "Presenta pérdida del brillo de los frutos",
+        "Presenta pudrición de los racimos",
+        "Presenta decoloración café de los folíolos",
+        "Presenta deshidratación severa en los folíolos"
+      ]
+    },
+    {
+      "name": "Anillo Rojo",
+      "description": "El Anillo rojo (AR) es una enfermedad que se presenta de manera recurrente en las zonas palmeras de Colombia, especialmente en la Norte y la Oriental. Esta enfermedad es diseminada por adultos del picudo negro, Rhynchophorus palmarum, portador o vector del nematodo Bursaphelenchus cocophilus, causante de la enfermedad.",
+      "props": [
+        "Es palma Joven",
+        "Es palma adulta",
+        "Presenta puntos de color anarajado y de apariencia aceitosa",
+        "Presenta manchas de color anaranjado",
+        "Presenta manchas y anillo marrón",
+        "Presenta pérdida del brillo de los frutos",
+        "Presenta pudrición de racimos"
+      ]
+    },
+    {
+      "name": "Marchitez Letal",
+      "description": "La Marchitez letal es una enfermedad compleja, una vez que una palma se enferma, muere. Se produce por la interacción entre la palma, la vegetación de gramíneas en el suelo, un patógeno y un insecto que al alimen- tarse de palmas enfermas transmite la enfermedad a las palmas sanas.",
+      "props": [
+        "Es palma Joven",
+        "Presenta pérdida del brillo de los frutos",
+        "Presenta pudrición de racimos",
+        "Presenta pudrición de raices",
+        "Presenta decoloración color bronce en racimos",
+        "Presenta decoloración color bronce en raíces",
+        "Presenta deshidratación severa en los folíolos"
+      ]
+    },
+    {
+      "name": "Pudrición letal de la flecha-cogollo",
+      "description": "La pudrición de flecha es diferente a la pudrición de cogollo y denomina esta última como amarillamiento fatal, en la cual casi siempre la pudrición alcanza el meristemo.",
+      "props": [
+        "Es palma joven",
+        "Presenta coloración marrón en el tejido melismático",
+        "Presenta pudrición húmeda en el tejido melismático",
+        "Presenta fetidez en el tejido melismático",
+        "Presenta coloración amarillo brillante en el centro de la corona",
+        "Presenta flecha desgajada",
+        "Presenta tejidos anormalmente adheridos entre si",
+        "Presenta frutos pequeños",
+        "Presenta pérdida del brillo de los frutos"
+      ]
+    },
+    {
+      "name": "Añublo o secamiento de las hojas",
+      "description": "Es una enfermad de importancia económica en Colombia que afecta generalmente palmas con edad superior a los 2 1/ 2 años. La enfermedad se caracteriza por un necrosamiento o secamiento progresivo de los foliolos de las hojas el cual es más acentuado en las hojas del tercio interior de la palma, debido a las sucesivas inoculaciones fungosas efectuadas sobre las heridas ocasionadas por los insectos asociados con el secamiento foliar, durante la longevidad de las hojas.",
+      "props": [
+        "Es palma adulta",
+        "Presenta disminución del rendimiento",
+        "Presenta disminución del follaje",
+        "Presenta manchas circulares color oliva rodeadas de un borde amarillo",
+        "Presenta haz del foliolo ligeramente hundido",
+        "Presenta punto rojizo amarillento"
+      ]
+    }
+  ]
+}
